@@ -1,0 +1,12 @@
+[user]
+    name = Sean Paradiso
+    email = seanparadiso@gmail.com
+[push]
+    default = nothing
+[core]
+    editor = vim
+    autocrlf = input
+[merge]
+    tool = meld
+[commit]
+    gpgsign = false
